@@ -17,8 +17,6 @@
 ‣ Checkout: Proceed to a secure checkout process.
 
 **Technologies Used**
-
-  **Frontend:**
   
     • HTML
     
