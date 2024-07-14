@@ -6,7 +6,7 @@
   ensures that users can effortlessly browse through product categories, perform searches, and filter results to find exactly what they are looking for. The shopping cart 
   functionality allows users to add, update, or remove items, while the secure and efficient checkout process ensures a smooth transaction experience.
 
-You can visit the live website [**here**](https://deepakkr22iitk.github.io/E-Commerce-Website/)
+You can visit the live website [**here**](https://deepakkr22iitk.github.io/E-Commerce-Website/).
 
 **Features**
 
