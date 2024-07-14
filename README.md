@@ -10,13 +10,16 @@ You can visit the live website [**here**](https://deepakkr22iitk.github.io/E-Com
 
 **Features**
 
-‣ Browse Products: Users can view a list of available products.
+‣ [Browse Products](https://deepakkr22iitk.github.io/E-Commerce-Website/index.html): Users can view a list of available products.
 
-‣ Product Details: Detailed view of products including descriptions, ratings, and reviews.
+‣ [Shopping Cart](https://deepakkr22iitk.github.io/E-Commerce-Website/shop.html): Add, update, or remove products from the cart.
 
-‣ Shopping Cart: Add, update, or remove products from the cart.
+‣ [Product Details](https://deepakkr22iitk.github.io/E-Commerce-Website/sproduct.html): Detailed view of products including descriptions, ratings, and reviews.
 
-‣ Checkout: Proceed to a secure checkout process.
+‣ [Blog Page](https://deepakkr22iitk.github.io/E-Commerce-Website/blog.html): Stay updated with the latest news, trends, and tips in the e-commerce industry through our blog page. The blog features articles on a variety of topics, including product reviews, shopping guides, and industry insights.
+
+‣ [Checkout](https://deepakkr22iitk.github.io/E-Commerce-Website/cart.html): Proceed to a secure checkout process.
+
 
 **Technologies Used**
   
